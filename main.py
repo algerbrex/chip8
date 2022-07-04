@@ -20,7 +20,7 @@ pg.mixer.init()
 
 WINDOW_WIDTH = 640
 WINDOW_HEIGHT = 320
-FPS = 120
+FPS = 240
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
